@@ -1,0 +1,72 @@
+BCSymbolMap Version: 2.0
+_$S11ByrdStation10ManageablePAAE7request11descriptorsSo14NSFetchRequestCyxGSaySo16NSSortDescriptorCG_tFZfA_
+_globalinit_33_25A183629611CFAEAE6858290220A9AC_token0
+_symbolic $S11ByrdStation23ProvidesInternalContextP
+_$S11ByrdStation23ProvidesInternalContext_pMF
+_$S11ByrdStation23ProvidesInternalContextWR
+__swift_FORCE_LOAD_$_swiftCoreData_$_ByrdStation
+__swift_FORCE_LOAD_$_swiftFoundation_$_ByrdStation
+__swift_FORCE_LOAD_$_swiftDarwin_$_ByrdStation
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_ByrdStation
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_ByrdStation
+__swift_FORCE_LOAD_$_swiftDispatch_$_ByrdStation
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_ByrdStation
+___swift_reflection_version
+Apple LLVM version 10.0.0 (clang-1000.11.45.1)
+-emit-bc /Users/jemmons/code/mcmxcix/PointlessOthers/Carthage/Checkouts/ByrdStation/Sources/Manageable/ManageableWithContext.swift /Users/jemmons/code/mcmxcix/PointlessOthers/Carthage/Checkouts/ByrdStation/Sources/Root.swift /Users/jemmons/code/mcmxcix/PointlessOthers/Carthage/Checkouts/ByrdStation/Sources/Manageable/ManageableDefaults.swift /Users/jemmons/code/mcmxcix/PointlessOthers/Carthage/Checkouts/ByrdStation/Sources/Manageable/ManageableMixins.swift -emit-module-path /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/Objects-normal/arm64/ByrdStation.swiftmodule -emit-module-doc-path /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/Objects-normal/arm64/ByrdStation.swiftdoc -serialize-diagnostics-path /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/Objects-normal/arm64/ByrdStation_iOS-master.dia -emit-objc-header-path /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/Objects-normal/arm64/ByrdStation-Swift.h -emit-dependencies-path /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/Objects-normal/arm64/ByrdStation_iOS-master.d -target arm64-apple-ios10.0 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk -I /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/BuildProductsPath/Release-iphoneos -F /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/BuildProductsPath/Release-iphoneos -g -module-cache-path /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/ModuleCache.noindex -swift-version 4.2 -O -serialize-debugging-options -Xcc -I/Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/ByrdStation-generated-files.hmap -Xcc -I/Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/ByrdStation-own-target-headers.hmap -Xcc -I/Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/ByrdStation-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/ByrdStation-project-headers.hmap -Xcc -I/Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/BuildProductsPath/Release-iphoneos/include -Xcc -I/Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/DerivedSources/arm64 -Xcc -I/Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/DerivedSources -Xcc -working-directory/Users/jemmons/code/mcmxcix/PointlessOthers/Carthage/Checkouts/ByrdStation/Support -module-name ByrdStation -num-threads 8 -o /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/Objects-normal/arm64/ManageableWithContext.bc -o /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/Objects-normal/arm64/Root.bc -o /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/Objects-normal/arm64/ManageableDefaults.bc -o /Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/Objects-normal/arm64/ManageableMixins.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+/Users/jemmons/code/mcmxcix/PointlessOthers/Carthage/Checkouts/ByrdStation/Support
+Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)
+/Users/jemmons/code/mcmxcix/PointlessOthers/Carthage/Checkouts/ByrdStation/Sources/Manageable/ManageableWithContext.swift
+$S11ByrdStation10ManageablePAAE7request11descriptorsSo14NSFetchRequestCyxGSaySo16NSSortDescriptorCG_tFZfA_
+ManageableMixins.swift
+/Users/jemmons/code/mcmxcix/PointlessOthers/Carthage/Checkouts/ByrdStation/Sources/Manageable
+insert
+ManageableWithContext.swift
+resultsController
+_globalinit_33_25A183629611CFAEAE6858290220A9AC_func0
+/Users/jemmons/code/mcmxcix/PointlessOthers/Carthage/Checkouts/ByrdStation/Sources/Root.swift
+$S11ByrdStation5valueSSvau
+Root.swift
+/Users/jemmons/code/mcmxcix/PointlessOthers/Carthage/Checkouts/ByrdStation/Sources
+globalinit_33_25A183629611CFAEAE6858290220A9AC_func0
+_$Ss27_toStringReadOnlyStreamableySSxs010TextOutputE0RzlFSS_Tg5
+_$Ss16_SmallUTF8StringVyABSgxcs22RandomAccessCollectionRzs6UInt16V7ElementRtzlufCSRyAFG_Tgq5Tf4xd_n
+_$SSS19stringInterpolationS2Sd_tcfCTf4nd_n
+_$Ss23_ContiguousArrayStorageCySSGML
+_symbolic $S11ByrdStation10ManageableP
+_$S11ByrdStation10Manageable_pMF
+l_OBJC_LABEL_PROTOCOL_$_NSFetchRequestResult
+l_OBJC_PROTOCOL_REFERENCE_$_NSFetchRequestResult
+_$S11ByrdStation10ManageableWR
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_REFERENCE_$_NSObject
+/Users/jemmons/code/mcmxcix/PointlessOthers/Carthage/Checkouts/ByrdStation/Sources/Manageable/ManageableDefaults.swift
+init
+<compiler-generated>
+$SSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtFSS_Tgq5
+$SSa9_getCountSiyFSS_Tgq5
+$Ss16_SmallUTF8StringVyABSgxcs22RandomAccessCollectionRzs6UInt16V7ElementRtzlufCSRyAFG_Tgq5Tf4xd_n
+$SSv10storeBytes2of12toByteOffset2asyx_SixmtlFs5UInt8V_Tgq5
+$SSmsE6remove2at7ElementQz5IndexQz_tFs11_UIntBufferVys6UInt32Vs6UInt16VG_Tgq5
+$Ss27_toStringReadOnlyStreamableySSxs010TextOutputE0RzlFSS_Tg5
+$SSSs20TextOutputStreamablessAAP5write2toyqd__z_ts0aB6StreamRd__lFTWSS_Tg5
+$SSS5write2toyxz_ts16TextOutputStreamRzlFSS_Tg5
+$SSSs16TextOutputStreamssAAP5writeyySSFTW
+entityName.get
+ManageableDefaults.swift
+_allocateUninitializedArray
+$SSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZSS_Tg5
+$Ss16_SmallUTF8StringVyABSgxcs22RandomAccessCollectionRzs6UInt16V7ElementRtzlufCSRyAFG_Tgq5
+$Ss23_ContiguousArrayStorageCySSGMa
+defaultSortDescriptors.get
+_$SSo26NSFetchedResultsControllerCML
+_$SSo14NSFetchRequestCML
+_$SSo16NSSortDescriptorCML
+/Users/jemmons/code/mcmxcix/PointlessOthers/Carthage/Checkouts/ByrdStation/Sources/Manageable/ManageableMixins.swift
+request
+$SSo16NSSortDescriptorCMa
+$SSo14NSFetchRequestCMa
+$SSo26NSFetchedResultsControllerCMa
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/jemmons/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/ByrdStation/fc29a1b6d81834244035dad633aceb689abeb372/Build/Intermediates.noindex/ArchiveIntermediates/ByrdStation_iOS/IntermediateBuildFilesPath/ByrdStation.build/Release-iphoneos/ByrdStation_iOS.build/DerivedSources/ByrdStation_vers.c

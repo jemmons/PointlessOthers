@@ -1,0 +1,21 @@
+{
+  "Mac" : [
+    {
+      "name" : "ByrdStation",
+      "hash" : "e522afc6a5860579cc6e65287ff0290141c2e6e16e2c8ca28344b4cbfc29db44"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "fc29a1b6d81834244035dad633aceb689abeb372",
+  "iOS" : [
+    {
+      "name" : "ByrdStation",
+      "hash" : "8b741333bc68347bec3c4920648527c875828a4990a8d8dc411e91a49606c872"
+    }
+  ]
+}
