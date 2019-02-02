@@ -1,4 +1,0 @@
-framework module ByrdStation {
-  header "ByrdStation-Swift.h"
-  requires objc
-}
