@@ -2,11 +2,7 @@ import Foundation
 import ByrdStation
 
 
-public func set() {
-  ByrdStation.value = "Others"
-}
+internal class Here {}
+internal let internalContainer = SQLiteContainer<Here>("PointlessOthers")
+public var container: Container { return internalContainer }
 
-
-public func get() -> String {
-  return ByrdStation.value
-}
